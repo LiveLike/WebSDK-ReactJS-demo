@@ -1,0 +1,41 @@
+.main {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  border: 5px solid #FFFF00;
+  padding: 10px;
+  background-color: black;
+  
+  }
+ 
+.chatOnly {
+  width: 200px;
+  height: 200px;
+  border: 1px solid black;
+  float: left;
+  background-color: red;
+  color: black;
+  text-align:center;
+}
+
+.widgetOnly {
+  width: 200px;
+  height: 200px;
+  border: 1px solid black;
+  float: left;
+  background-color: green;
+  color: black;
+  text-align:center;
+  
+}
+
+.chatWithWidget{
+  width: 200px;
+  height: 200px;
+  border: 1px solid black;
+  float: left;
+  background-color: blue;
+  color: black;
+  text-align:center;
+}
